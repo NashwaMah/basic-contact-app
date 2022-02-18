@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## How to run front end 
 
 move inside app folder and run below command 
+### `npm install`
 ### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,5 +15,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## How to run server  
 move inside server folder and run below command 
-
+### `npm install`
 ### `npm start`
